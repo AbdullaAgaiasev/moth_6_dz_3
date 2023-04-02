@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">moth_6_dz_3</string>
+    <string name="zero">0</string>
+    <string name="result">result</string>
+    <string name="history">history</string>
+    <string name="description">Enter task description</string>
+    <string name="done">done</string>
+</resources>
